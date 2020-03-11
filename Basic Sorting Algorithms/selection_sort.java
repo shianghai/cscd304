@@ -1,4 +1,4 @@
-package myCode;
+package com.company;
  
 public class MySelectionSort {
  
