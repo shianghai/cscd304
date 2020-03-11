@@ -1,4 +1,4 @@
-package com.java2novice.algos;
+package myCode;
  
 public class MySelectionSort {
  
